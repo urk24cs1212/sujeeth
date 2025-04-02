@@ -6,4 +6,8 @@ i am living here
 jump
 king
  tjrimewei
+<<<<<<< HEAD
 shgfasdgfkuhas
+=======
+dsvgvuvusvulwvuGUgukvhyvchz v
+>>>>>>> upstream/main
